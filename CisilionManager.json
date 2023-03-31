@@ -49,7 +49,7 @@
             "maximumActivationDuration": "PT8H",
             "managedByTenantApprovers": []
           },
-          "principalId": "b0d840a2-0a35-45f4-8a88-e2d3f21949ce",
+          "principalId": "0712a020-4d28-4829-8bd8-134730317638",
           "principalIdDisplayName": "Cisilion Azure Lighthouse Contributor",
           "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
         },
